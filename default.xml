@@ -140,7 +140,7 @@
   <project name="platform/hardware/qcom/gps" path="hardware/qcom/gps" revision="a162c4351926285892214b0726aaf07f0631dc72"/>
   <project name="platform/hardware/qcom/media" path="hardware/qcom/media" revision="1910094a3149a0e72d74f83077f636d91e334cc9"/>
   <!-- [HRH83D] the Sony Ericsson patch was merged in later -->
-  <project name="platform/hardware/ril" path="hardware/ril" revision="c0114b325877907fcdf7a5baa24e54a752e7e58b"/>
+  <project name="platform/hardware/ril" path="hardware/ril" revision="0eba2026fd78f61e77a6adfece793cfaca92047c"/>
   <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="721744541c4d471be243eeb48287d0d1de109cc5"/>
   <project name="platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="bd8a0f92c534e9a32a2379a0462584277462f2f6"/>
   <project name="platform/libcore" path="libcore" revision="a3d357bd346336f7ff304a9a26c81e93f67f98e6"/>
