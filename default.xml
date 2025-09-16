@@ -159,7 +159,7 @@
   <project name="platform/packages/apps/SoundRecorder" path="packages/apps/SoundRecorder" revision="f78b96b03d50951273e2c9408719119d38ee605a"/>
   <project name="platform/packages/apps/SpeechRecorder" path="packages/apps/SpeechRecorder" revision="f075eb5cefb6357aa7562a6d156bda5383ac087d"/>
   <project name="platform/packages/apps/Stk" path="packages/apps/Stk" revision="6cce945599117736376d45eb1f3fb9a6627888af"/>
-  <project name="platform/packages/apps/VoiceDialer" path="packages/apps/VoiceDialer" revision="04c00624b9e0ad34e495befb750205e377621805"/>
+  <project name="platform/packages/apps/VoiceDialer" path="packages/apps/VoiceDialer" revision="e7e02ab9d31d5896ad658ff41a330c832d549ab1"/>
   <project name="platform/packages/experimental" path="packages/experimental" revision="37563432a6b093a1dcf99aefbf25393d3e9b5921"/>
   <project name="platform/packages/inputmethods/LatinIME" path="packages/inputmethods/LatinIME" revision="f73e76de00f15918828f4f97e5abd4cc1b05c50f"/>
   <project name="platform/packages/inputmethods/OpenWnn" path="packages/inputmethods/OpenWnn" revision="27ab9d1b806f03554d2abb50de26abe7bf234336"/>
