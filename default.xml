@@ -111,6 +111,7 @@
   <project name="platform/external/tremolo" path="external/tremolo" revision="ef03ae17fcbd7474f839cc2fee27a58369cf41dd"/>
   <project name="platform/external/v8" path="external/v8" revision="db5a90a88cfcddb042912799e872037c6548b8a3"/>
   <project name="platform/external/webkit" path="external/webkit" revision="1e94288ba5e5c46db33f5404c9e7a9471044fa14"/>
+  <project name="platform/external/webp" path="external/webp" revision="9aea642eefa7a641ab8b89d953251939221d2719"/>
   <project name="platform/external/wpa_supplicant" path="external/wpa_supplicant" revision="92202cf7a2e615b65e892aa8f633b469ddcb522e"/>
   <project name="platform/external/wpa_supplicant_6" path="external/wpa_supplicant_6" revision="3ae4d7ced8d9d72b0432a476abdecda77f766c66"/>
   <project name="platform/external/xmlwriter" path="external/xmlwriter" revision="e95d92246ee35273dde2bee8b00485cc14c12be5"/>
