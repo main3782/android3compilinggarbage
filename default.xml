@@ -175,7 +175,7 @@
   <project name="platform/packages/providers/UserDictionaryProvider" path="packages/providers/UserDictionaryProvider" revision="d7eb9d4b59640175877a6f53f32b6e3e3d7154e9"/>
   <project name="platform/packages/wallpapers/Basic" path="packages/wallpapers/Basic" revision="583aae3ac869c35d0e45d0e6839a5225c8fc48bc"/>
   <project name="platform/packages/wallpapers/LivePicker" path="packages/wallpapers/LivePicker" revision="f2e2b1abbd527d62feaa8d3966a97d4f657d1532"/>
-  <project name="platform/packages/wallpapers/MagicSmoke" path="packages/wallpapers/MagicSmoke" revision="4cb26a827ca03cad77522862cc78248e052ea0ca"/>
+  <project name="platform/packages/wallpapers/MagicSmoke" path="packages/wallpapers/MagicSmoke" revision="93e6fb8d6b74f8be0768e70631daddb93c5a8cda"/>
   <project name="platform/packages/wallpapers/MusicVisualization" path="packages/wallpapers/MusicVisualization" revision="dd792a3bf8f2346d62418c942d4dd296da55df6a"/>
   <project name="platform/prebuilt" path="prebuilt" revision="4b44f38e91a486530c250f52d521b14b319dc6af"/>
   <project name="platform/sdk" path="sdk" revision="78c8860828e30eaab4477776663dd6712ca09668"/>
