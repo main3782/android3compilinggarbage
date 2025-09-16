@@ -165,7 +165,7 @@
   <project name="platform/packages/inputmethods/OpenWnn" path="packages/inputmethods/OpenWnn" revision="27ab9d1b806f03554d2abb50de26abe7bf234336"/>
   <project name="platform/packages/inputmethods/PinyinIME" path="packages/inputmethods/PinyinIME" revision="8c8df623b7097b008856c28b874a99a231eb278a"/>
   <project name="platform/packages/providers/ApplicationsProvider" path="packages/providers/ApplicationsProvider" revision="028466f581d5bdf2d01c90aeae5021889e550db8"/>
-  <project name="platform/packages/providers/CalendarProvider" path="packages/providers/CalendarProvider" revision="1d3a523631c3c46e75e861f93553740fc1573862"/>
+  <project name="platform/packages/providers/CalendarProvider" path="packages/providers/CalendarProvider" revision="9c1e8ba691be5aec0daac0baf1e6928d8f2d7156"/>
   <project name="platform/packages/providers/ContactsProvider" path="packages/providers/ContactsProvider" revision="43a0594eb395e809c134b06fff4ae4dfc3a99af3"/>
   <project name="platform/packages/providers/DownloadProvider" path="packages/providers/DownloadProvider" revision="3a9c766a9cf7601713ebccdc10b8d26810109c3b"/>
   <project name="platform/packages/providers/DrmProvider" path="packages/providers/DrmProvider" revision="123b8f6ceac14a7d75cd6b37e554da5b53c24270"/>
