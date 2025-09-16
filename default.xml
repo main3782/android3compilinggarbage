@@ -171,7 +171,7 @@
   <project name="platform/packages/providers/DrmProvider" path="packages/providers/DrmProvider" revision="123b8f6ceac14a7d75cd6b37e554da5b53c24270"/>
   <project name="platform/packages/providers/GoogleContactsProvider" path="packages/providers/GoogleContactsProvider" revision="4886c7a0cfba5df74b213b1fc8286c6e3f2ddaa2"/>
   <project name="platform/packages/providers/MediaProvider" path="packages/providers/MediaProvider" revision="363fde788be6b1350503c98e656376bbd13bf74d"/>
-  <project name="platform/packages/providers/TelephonyProvider" path="packages/providers/TelephonyProvider" revision="3f7ae65f1ad2373125408b2c324823c155700fee"/>
+  <project name="platform/packages/providers/TelephonyProvider" path="packages/providers/TelephonyProvider" revision="9081ab6bd08fa66bac28d65f0ce4fca14b6954a6"/>
   <project name="platform/packages/providers/UserDictionaryProvider" path="packages/providers/UserDictionaryProvider" revision="d7eb9d4b59640175877a6f53f32b6e3e3d7154e9"/>
   <project name="platform/packages/wallpapers/Basic" path="packages/wallpapers/Basic" revision="583aae3ac869c35d0e45d0e6839a5225c8fc48bc"/>
   <project name="platform/packages/wallpapers/LivePicker" path="packages/wallpapers/LivePicker" revision="f2e2b1abbd527d62feaa8d3966a97d4f657d1532"/>
