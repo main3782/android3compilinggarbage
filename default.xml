@@ -128,7 +128,7 @@
   <project name="platform/hardware/msm7k" path="hardware/msm7k" revision="3149fa468dae6980f4e20d1979cf31a43d1624da"/>
   <project name="platform/hardware/qcom/gps" path="hardware/qcom/gps" revision="a162c4351926285892214b0726aaf07f0631dc72"/>
   <project name="platform/hardware/qcom/media" path="hardware/qcom/media" revision="1910094a3149a0e72d74f83077f636d91e334cc9"/>
-  <project name="platform/hardware/ril" path="hardware/ril" revision="11b35e613debbc9bcc162111d104e4c9f90fdbb8"/>
+  <project name="platform/hardware/ril" path="hardware/ril" revision="a79372347720af52d8cf10ad296a85597ea1e7fc"/>
   <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="721744541c4d471be243eeb48287d0d1de109cc5"/>
   <project name="platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="bd8a0f92c534e9a32a2379a0462584277462f2f6"/>
   <project name="platform/libcore" path="libcore" revision="87548e8585334658c3ee89050ec917a10ca35e5a"/>
@@ -179,7 +179,7 @@
   <project name="platform/prebuilt" path="prebuilt" revision="4b44f38e91a486530c250f52d521b14b319dc6af"/>
   <project name="platform/sdk" path="sdk" revision="78c8860828e30eaab4477776663dd6712ca09668"/>
   <project name="platform/system/bluetooth" path="system/bluetooth" revision="d15a37448edcc1bd314873732ce5f3ea7ddad4ba"/>
-  <project name="platform/system/core" path="system/core" revision="cdeba1258b511b6df450221bcfb2572e5523558a"/>
+  <project name="platform/system/core" path="system/core" revision="92a30415e940da398d14d5d271620b0eebec14c2"/>
   <project name="platform/system/extras" path="system/extras" revision="0bb2ea891b9c2a104530dbfd86d124c4dde8ca2e"/>
   <project name="platform/system/media" path="system/media" revision="c3b8150d12fe141ad59cdae008ccfcb7543fad0e"/>
   <project name="platform/system/netd" path="system/netd" revision="df9a6a82700a14169cc9d0b74833f1e261b171c6"/>
