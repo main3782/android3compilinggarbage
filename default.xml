@@ -184,7 +184,7 @@
   <project name="platform/system/extras" path="system/extras" revision="0bb2ea891b9c2a104530dbfd86d124c4dde8ca2e"/>
   <project name="platform/system/media" path="system/media" revision="c3b8150d12fe141ad59cdae008ccfcb7543fad0e"/>
   <project name="platform/system/netd" path="system/netd" revision="df9a6a82700a14169cc9d0b74833f1e261b171c6"/>
-  <project name="platform/system/vold" path="system/vold" revision="499806cd60cd45b8cc9ae669b3d49507e04ffc0f"/>
+  <project name="platform/system/vold" path="system/vold" revision="5fb760a63ca3b8a2b282b8c642508d998706bbd0"/>
   <project name="platform/system/wlan/ti" path="system/wlan/ti" revision="3baca6cc248e0d9a852c25b214c92bc856ae03ea"/>
   <project name="platform/tools/tradefederation" path="tools/tradefederation" revision="1c4330a943a4108b8c6848b24360d13f8729a41a"/>
 </manifest>
