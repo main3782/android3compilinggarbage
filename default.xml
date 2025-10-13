@@ -102,7 +102,7 @@
   <project name="platform/external/speex" path="external/speex" revision="32e4d0aa78c5879565cbcd06415fa2e344036ab5"/>
   <project name="platform/external/sqlite" path="external/sqlite" revision="747c5732f8165a0c53ba0e11635727ea83b3d3bb"/>
   <project name="platform/external/srec" path="external/srec" revision="fe2df6d191e9b24fed13a3c7c24ff8aa11281988"/>
-  <project name="platform/external/stlport" path="external/stlport" revision="b7ece4a7c9780e70c716304339543023f488dad8"/>
+  <project name="platform/external/stlport" path="external/stlport" revision="17d7f378871dda3c223a47710e9230758a7fc701"/>
   <project name="platform/external/strace" path="external/strace" revision="09fa7f87650f7267f31243ea7b00c02dab3d1305"/>
   <project name="platform/external/svox" path="external/svox" revision="bfea701b25ad39ea7a1f76efecdf0ba0ffe89f31"/>
   <project name="platform/external/tagsoup" path="external/tagsoup" revision="68c2ec9e0acdb3214b7fb91dbab8c9fab8736817"/>
@@ -176,7 +176,7 @@
   <project name="platform/packages/wallpapers/LivePicker" path="packages/wallpapers/LivePicker" revision="79cdb217a579796c3db50f1ba1d242de96ef2d8f"/>
   <project name="platform/packages/wallpapers/MagicSmoke" path="packages/wallpapers/MagicSmoke" revision="39ddfdbb3d12e1f42304da2ea550365c8dda6d03"/>
   <project name="platform/packages/wallpapers/MusicVisualization" path="packages/wallpapers/MusicVisualization" revision="0ec1cbb5355080f5b9cd3eb19b6d9369deed6841"/>
-  <project name="platform/prebuilt" path="prebuilt" revision="c12ea31855b4156075b61218169f4bc4f3d06314"/>
+  <project name="platform/prebuilt" path="prebuilt" revision="8416fb827d87fc9589bb867459b979a33ce2df0a"/>
   <project name="platform/sdk" path="sdk" revision="23ca51ca7585fc12301185885df4ed32b3130c18"/>
   <project name="platform/system/bluetooth" path="system/bluetooth" revision="3acc325289da36a9e7b19fa21cf6074c310827dd"/>
   <project name="platform/system/core" path="system/core" revision="0715f91223b2f7a91ea08bfa95998d846e7977cf"/>
