@@ -22,7 +22,7 @@
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
   <project name="platform_cts" path="cts" remote="github" revision="honeycomb-release_HRG85C_fix"/>
-  <project name="platform/dalvik" path="dalvik" revision="b703ba2fbbf626a087903b5ee890989d18fd0c2b"/>
+  <project name="platform/dalvik" path="dalvik" revision="1c9d0ab244da441d95a1f2abbb104a0b1015d5d5"/>
   <project name="platform/development" path="development" revision="2ffaf68b6b19da23258a0bed9eaeba0b1660e50e"/>
   <project name="platform/external/apache-http" path="external/apache-http" revision="e9a3cc7842f13b5e2b941bafc6bb3d0e9aa4c819"/>
   <project name="platform/external/astl" path="external/astl" revision="c3c760978c34d5eeea1205c0bf7f27444e192a98"/>
