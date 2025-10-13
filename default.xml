@@ -176,7 +176,7 @@
   <project name="platform/packages/wallpapers/LivePicker" path="packages/wallpapers/LivePicker" revision="79cdb217a579796c3db50f1ba1d242de96ef2d8f"/>
   <project name="platform/packages/wallpapers/MagicSmoke" path="packages/wallpapers/MagicSmoke" revision="39ddfdbb3d12e1f42304da2ea550365c8dda6d03"/>
   <project name="platform/packages/wallpapers/MusicVisualization" path="packages/wallpapers/MusicVisualization" revision="0ec1cbb5355080f5b9cd3eb19b6d9369deed6841"/>
-  <project name="platform/prebuilt" path="prebuilt" revision="f4fccb79bdb428a4c563bf69d490e0e10305ae15"/>
+  <project name="platform/prebuilt" path="prebuilt" revision="a597ba50b124038508a3e5ef8ea898be800930bf"/>
   <project name="platform/sdk" path="sdk" revision="23ca51ca7585fc12301185885df4ed32b3130c18"/>
   <project name="platform/system/bluetooth" path="system/bluetooth" revision="3acc325289da36a9e7b19fa21cf6074c310827dd"/>
   <project name="platform/system/core" path="system/core" revision="0715f91223b2f7a91ea08bfa95998d846e7977cf"/>
