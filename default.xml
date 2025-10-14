@@ -250,6 +250,7 @@
   <project name="platform/frameworks/opt/mailcommon" path="frameworks/opt/mailcommon" revision="d48018c1345a557221f2f2a36e8507ff891b8bf5" />
   <project name="platform/frameworks/opt/vcard" path="frameworks/opt/vcard" revision="5f0f9e9f2d3e8b73beaf49d542e10fdec6fa199b" />
   <project name="platform/frameworks/support" path="frameworks/support" revision="481243c175651c5de0741ab9390eb10f5b024d98" />
+  <project name="platform/hardware/broadcom/wlan" path="hardware/broadcom/wlan" revision="ac2c6bde50d7c45ef32d901d4db681ba85cef4e1" />
   <project name="platform/hardware/libhardware" path="hardware/libhardware" revision="78d2c69af4ab35ac6ae8e78fc3a61e7023a60769" />
   <project name="platform/hardware/libhardware_legacy" path="hardware/libhardware_legacy" revision="67ba2276b9a5232685e14d416fea0b1250515594" />
   <!-- 4.0 RTM commit dont change -->
